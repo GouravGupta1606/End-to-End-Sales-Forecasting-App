@@ -226,5 +226,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Gourav**  
+**Gourav** , **Shlok** 
 Feel free to connect on [LinkedIn](https://linkedin.com) or raise an issue for questions!
