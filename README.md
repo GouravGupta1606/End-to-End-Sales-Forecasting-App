@@ -226,6 +226,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Gourav** , **Shlok** ,**Aryan**
+**Gourav** , **Shlok** ,**Aryan Bharti**
 --
 Feel free to connect on [LinkedIn](https://linkedin.com) or raise an issue for questions!
